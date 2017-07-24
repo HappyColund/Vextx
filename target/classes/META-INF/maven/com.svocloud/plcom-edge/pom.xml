@@ -128,6 +128,8 @@
 					<source>1.8</source>
 					<target>1.8</target>
 					<encoding>UTF-8</encoding>
+					<generatedSourcesDirectory>src/main/generated</generatedSourcesDirectory>
+          			<generatedTestSourcesDirectory>src/test/generated</generatedTestSourcesDirectory>
 					<annotationProcessors>
 						<annotationProcessor>io.vertx.serviceproxy.ServiceProxyProcessor</annotationProcessor>
 					</annotationProcessors>
