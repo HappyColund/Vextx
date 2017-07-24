@@ -1,6 +1,5 @@
 package com.svocloud.plcmedge.verticle;
 
-import com.svocloud.plcmedge.router.ApiRouter;
 import com.svocloud.plcmedge.service.ConferenceService;
 import com.svocloud.plcmedge.service.impl.ConferenceServiceImpl;
 import io.vertx.core.Future;
